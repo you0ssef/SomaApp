@@ -1,0 +1,40 @@
+name: Bug Report
+description: Report a technical issue in Soma
+labels: [bug]
+body:
+  - type: checkboxes
+    id: checklist
+    attributes:
+      label: Pre-submission Checklist
+      options:
+        - label: I've checked that I'm using the latest version of Soma.
+          required: true
+        - label: I understand that providing clear details helps solve the issue faster.
+          required: true
+
+  - type: textarea
+    id: bug-description
+    attributes:
+      label: Describe the bug
+      placeholder: Tell us what exactly happened...
+    validations:
+      required: true
+
+  - type: textarea
+    id: steps
+    attributes:
+      label: Steps to Reproduce
+      placeholder: |
+        1. Open the app
+        2. Click on ...
+        3. See error
+    validations:
+      required: false
+
+  - type: textarea
+    id: screenshots
+    attributes:
+      label: Screenshots (Optional)
+      description: You can drag and drop images here to help us see the problem.
+    validations:
+      required: false
