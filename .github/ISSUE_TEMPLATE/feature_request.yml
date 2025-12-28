@@ -1,0 +1,28 @@
+name: Feature Request
+description: Suggest a new idea or improvement for Soma
+labels: [enhancement]
+body:
+  - type: textarea
+    id: feature-idea
+    attributes:
+      label: Concept
+      placeholder: Describe the feature or improvement you'd like to see...
+    validations:
+      required: true
+
+  - type: textarea
+    id: use-case
+    attributes:
+      label: Why is this needed?
+      description: How will this make the app better for you?
+      placeholder: Explain the benefit of this feature...
+    validations:
+      required: false
+
+  - type: textarea
+    id: additional-context
+    attributes:
+      label: Additional Context
+      placeholder: Any other details, sketches, or examples...
+    validations:
+      required: false
