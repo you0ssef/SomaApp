@@ -15,6 +15,9 @@ English
 [![GitHub release (latest by date)](https://img.shields.io/github/v/release/you0ssef/SomaApp?color=black&label=Stable&logo=github)](https://github.com/you0ssef/SomaApp/releases/latest/)
 [![GitHub all releases](https://img.shields.io/github/downloads/you0ssef/SomaApp/total?label=Downloads&logo=github)](https://github.com/you0ssef/SomaApp/releases/)
 
+<br>
+
+<a href='https://com-yo0ossef-soma.en.uptodown.com/android' title='Download Soma' ><img src='https://stc.utdstc.com/img/mediakit/download-gio-big.png' alt='Download Soma'></a>
 
 </div>
 
@@ -61,14 +64,10 @@ You can download the latest version of the app from the [Releases](https://githu
 
 ## 🐛 Bug Reports & Suggestions
 
-Found a bug or have a suggestion? Please open an **[Issue](https://github.com/you0ssef/SomaApp/issues)** and provide:
-* A clear description of the problem :)
+Found a bug or have a suggestion? Please open an **[Issue](https://github.com/you0ssef/SomaApp/issues)**
 
 <br>
 
 ## 📃 License
 
 Soma is a free-to-use application. All rights reserved ©
-
-
-<!--[![GitHub](https://img.shields.io/github/license/you0ssef/SomaApp?style=for-the-badge)](https://github.com/you0ssef/SomaApp/blob/main/LICENSE)-->
