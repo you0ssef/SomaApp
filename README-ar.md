@@ -15,6 +15,10 @@
 [![GitHub release (latest by date)](https://img.shields.io/github/v/release/you0ssef/SomaApp?color=black&label=Latest&logo=github)](https://github.com/you0ssef/SomaApp/releases/latest/)
 [![GitHub all releases](https://img.shields.io/github/downloads/you0ssef/SomaApp/total?label=Downloads&logo=github)](https://github.com/you0ssef/SomaApp/releases/)
 
+<br>
+
+<a href='https://com-yo0ossef-soma.en.uptodown.com/android' title='Download Soma' ><img src='https://stc.utdstc.com/img/mediakit/download-gio-big.png' alt='Download Soma'></a>
+
 </div>
 
 <br>
@@ -62,8 +66,7 @@
 
 ## 🐛 الإبلاغ عن المشكلات والاقتراحات
 
-هل وجدت مشكلة أو لديك اقتراح؟ يرجى فتح **[تذكرة (Issue)](https://github.com/you0ssef/SomaApp/issues)** وتزويدنا بـ:
-* وصف واضح للمشكلة :)
+هل وجدت مشكلة أو لديك اقتراح؟ يرجى فتح **[تذكرة (Issue)](https://github.com/you0ssef/SomaApp/issues)**
 
 <br>
 
