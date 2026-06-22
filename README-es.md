@@ -13,6 +13,7 @@ Español
 <br>
 
 [![GitHub release (latest by date)](https://img.shields.io/github/v/release/you0ssef/SomaApp?color=black&label=Estable&logo=github)](https://github.com/you0ssef/SomaApp/releases/latest/)
+[![GitHub stars](https://img.shields.io/github/stars/you0ssef/SomaApp?style=social)](https://github.com/you0ssef/SomaApp/stargazers)
 [![GitHub all releases](https://img.shields.io/github/downloads/you0ssef/SomaApp/total?label=Descargas&logo=github)](https://github.com/you0ssef/SomaApp/releases/)
 
 <br>
