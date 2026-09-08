@@ -25,7 +25,7 @@ English
 
 <br>
 
-<a href='https://com-yo0ossef-soma.en.uptodown.com/android' title='Download Soma'><img src='https://stc.utdstc.com/img/mediakit/download-gio-big.png' height="45" alt='Download Soma from Uptodown'></a>
+<a href='https://com-yo0ossef-soma.en.uptodown.com/android' title='Download Soma'><img src='https://stc.utdstc.com/img/mediakit/download-gio-big.png' height="100" alt='Download Soma from Uptodown'></a>
 
 </div>
 
@@ -34,15 +34,15 @@ English
 ## 👀 Screenshots
 
 <div align="center">
-  <img src="path/images/screenshots/1.jpg" width="30%" />
-  <img src="path/images/screenshots/2.jpg" width="30%" />
-  <img src="path/images/screenshots/3.jpg" width="30%" />
-  <img src="path/images/screenshots/4.jpg" width="30%" />
-  <img src="path/images/screenshots/5.jpg" width="30%" />
-  <img src="path/images/screenshots/6.jpg" width="30%" />
-  <img src="path/images/screenshots/7.jpg" width="30%" />
-  <img src="path/images/screenshots/8.jpg" width="30%" />
-  <img src="path/images/screenshots/9.jpg" width="30%" />
+  <img src="path/images/screenshots/en/1.jpg" width="30%" />
+  <img src="path/images/screenshots/en/2.jpg" width="30%" />
+  <img src="path/images/screenshots/en/3.jpg" width="30%" />
+  <img src="path/images/screenshots/en/4.jpg" width="30%" />
+  <img src="path/images/screenshots/en/5.jpg" width="30%" />
+  <img src="path/images/screenshots/en/6.jpg" width="30%" />
+  <img src="path/images/screenshots/en/7.jpg" width="30%" />
+  <img src="path/images/screenshots/en/8.jpg" width="30%" />
+  <img src="path/images/screenshots/en/9.jpg" width="30%" />
 </div>
 
 <br>
