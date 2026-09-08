@@ -25,7 +25,9 @@ Español
 
 <br>
 
-<a href='https://com-yo0ossef-soma.en.uptodown.com/android' title='Descargar Soma'><img src='https://stc.utdstc.com/img/mediakit/download-gio-big.png' height="100" alt='Descargar Soma en Uptodown'></a>
+<a href='https://com-yo0ossef-soma.en.uptodown.com/android' target='_blank' rel='noopener noreferrer' title='Download Soma'>
+  <img src='https://stc.utdstc.com/img/mediakit/download-gio-big.png' height="100" alt='Download Soma'>
+</a>
 
 </div>
 
