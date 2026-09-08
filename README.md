@@ -4,7 +4,7 @@
 
 # Soma
 
-**A modern, distraction-free Wikipedia reader featuring a reels-style feed, customizable reading tools, and offline translation.**
+**A modern Wikipedia reader featuring a reels-style feed, advanced reading tools, and full offline translation support**
 
 <br>
 
@@ -21,11 +21,11 @@ English
 [![GitHub all releases](https://img.shields.io/github/downloads/you0ssef/SomaApp/total?style=for-the-badge&color=0284C7&label=Downloads&logo=github)](https://github.com/you0ssef/SomaApp/releases/)
 [![GitHub stars](https://img.shields.io/github/stars/you0ssef/SomaApp?style=for-the-badge&color=F59E0B&label=Stars&logo=github)](https://github.com/you0ssef/SomaApp/stargazers)
 [![GitHub issues](https://img.shields.io/github/issues/you0ssef/SomaApp?style=for-the-badge&color=EA580C&logo=github)](https://github.com/you0ssef/SomaApp/issues)
-[![License](https://img.shields.io/badge/License-Free-8B5CF6?style=for-the-badge)](https://github.com/you0ssef/SomaApp#-license)
+[![License](https://img.shields.io/badge/License-Free-8B5CF6?style=for-the-badge)](#-license)
 
 <br>
 
-<a href='https://com-yo0ossef-soma.en.uptodown.com/android' title='Download Soma'><img src='https://stc.utdstc.com/img/mediakit/download-gio-big.png' height="100" alt='Download Soma'></a>
+<a href='https://com-yo0ossef-soma.en.uptodown.com/android' title='Download Soma'><img src='https://stc.utdstc.com/img/mediakit/download-gio-big.png' height="45" alt='Download Soma from Uptodown'></a>
 
 </div>
 
@@ -51,19 +51,19 @@ English
 
 * Browse and discover Wikipedia articles in a modern, vertical scroll format (Reels style).
 * Read in a clean and organized interface featuring a horizontal scroll for main section headings.
-* Customize your reading with tools to adjust font size and line height, search inside articles, navigate via the table of contents, and switch between light and dark themes.
+* Customize your reading experience by adjusting font size and line height, searching inside articles, navigating via the table of contents, and switching between light and dark themes.
 * Save articles locally on your device to read them anytime without an internet connection.
-* Translate articles across more than 55 languages locally on-device without an internet connection.
+* Translate articles into more than 55 languages locally on-device without an internet connection.
 * Explore and read Wikipedia articles in over 30 different languages.
 * Set your favorite topics and categories to receive personalized article recommendations.
-* Open and read any specific Wikipedia article directly within the app using its URL.
-* Easily preview images in full view, open articles in an external browser, or share them.
+* Open and read any Wikipedia article directly within the app using the dedicated link reader tool.
+* Preview images in full resolution, open articles in an external browser, or share them easily.
 
 <br>
 
 ## 🔽 Download
 
-You can download the latest version of the app from the [Releases](https://github.com/you0ssef/SomaApp/releases) page.
+You can download the latest version of the app from the [Releases](https://github.com/you0ssef/SomaApp/releases) page
 
 > [!TIP]
 > If you are not sure which version is compatible with your device, please download the **Universal** apk, as it works on all supported devices.
@@ -72,7 +72,7 @@ You can download the latest version of the app from the [Releases](https://githu
 
 ## 🐛 Bug Reports & Suggestions
 
-Found a bug or have a suggestion? Please open an **[Issue](https://github.com/you0ssef/SomaApp/issues)**.
+Found a bug or have a suggestion? Please open an **[Issue](https://github.com/you0ssef/SomaApp/issues)**
 
 <br>
 
